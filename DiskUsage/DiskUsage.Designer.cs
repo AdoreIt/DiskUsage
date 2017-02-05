@@ -1,6 +1,6 @@
 ﻿namespace DiskUsage
 {
-    partial class Form1
+    partial class DiskUsage
     {
         /// <summary>
         /// Required designer variable.

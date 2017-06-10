@@ -92,7 +92,6 @@ namespace DiskUsage
                         diskUsageIcon.Icon = hardUsageIcon;
                     else
                         diskUsageIcon.Icon = hundredPercentUsageIcon;
-
                     Thread.Sleep(1500);
 
                 }
